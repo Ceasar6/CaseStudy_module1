@@ -1,0 +1,14 @@
+div{
+    padding: 15px;
+    margin: auto;
+}
+fieldset{
+    float: left;
+}
+table{
+    border-collapse: collapse;
+}
+#classTable {
+    width: 700px;
+    width: 500px;
+}
