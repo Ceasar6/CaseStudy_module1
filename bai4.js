@@ -11,4 +11,4 @@ let Circle = function (x, y, color, radius) {
     }
 };
 let circle = new Circle(10, 10, 100, "#000000");
-circle.render(document.getElementById("canvas").getContext('2d'));
+circle.render(document.getElementById("canvas").getContext("2d"));
